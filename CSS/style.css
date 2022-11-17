@@ -1,0 +1,75 @@
+#nav{
+    background-color: whitesmoke !important;
+    border-radius: 0;
+    margin-bottom: 0px;
+}
+#nav-text{
+    font-size: 32px;
+    padding-top: 14px;
+    color: black;
+}
+.twitter_icon{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin-top: 10px;
+    padding: 0px 16px;
+}
+.twitter_icon:hover{
+    color: blueviolet;
+    text-decoration: none;
+}
+.image-1{
+    margin: 40px 20px 30px 0px;
+}
+.showcase-right{
+    margin-top: 120px;
+    padding: 30px 20px;
+}
+.showcase-right h1{
+    font-size: 40px;
+}
+.lead{
+    font-size: 18px !important;
+    padding: 5px 0px;
+    font-weight: 400 !important;
+    font-style: italic;
+}
+.lead1{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 500;
+}
+.customer{
+    font-size: 18px;
+    text-align: center;
+}
+.section-2{
+    padding: 30px 10px;
+    background-color: grey;
+    color: whitesmoke;
+}
+.block-right{
+    margin-top: 120px;
+    padding: 30px 10px;
+}
+.create1{
+    margin-top: 10px;
+    padding: 0px 20px;
+}
+label{
+    font-size: 20px;
+    color: whitesmoke;
+}
+.section-5{
+    margin-top: 40px;
+    background: url("image3.png");
+    border-top: 7px solid black;
+    border-bottom: 7px solid black;
+}
+#footer{
+    padding: 10px 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
